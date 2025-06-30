@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+*.env
+*.venv
+venv/
+ENV/
+env/
+myenv/
+
+# Token and model files
+token.txt
+*.pt
+*.pth
+
+# VSCode
+.vscode/
+
+# CSVs
+label_classes.csv
+EOF
